@@ -13,7 +13,7 @@
 <td>ID</td>
 <td>AGE</td>
 <td>FIRST NAME</td>
-<td>LASTNAME</td>
+<td>LAST NAME</td>
 </tr>
 
 <%
